@@ -17,7 +17,7 @@ What the framework does still constrain is *for what*. Since the one axiom gives
 
 ---
 
-**Propsed generalised form, (for reuse beyond cruelty)**:
+**Proposed generalised form, (for reuse beyond cruelty)**:
 
 > Any act whose justification bottoms out in something *other than* the correspondence it produces is suspect, regardless of domain. This is the form worth applying fresh to new cases - laziness, secrecy, self-promotion, withheld information - rather than re-running the cruelty-specific reasoning each time.
 
