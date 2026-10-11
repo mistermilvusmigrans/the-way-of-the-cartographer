@@ -48,7 +48,7 @@ This can involve:
 
 In my understanding, effort toward ideas is primarily about directing and sustaining focus. Now, I can say from experience and a broader understanding of the concept of "focus" that directing and sustaining focus does not necessarily mean concentration or unwavering commitment. For example, when reading technical papers for a project, I found the effort very hard to sustain without descending into uncomprehending mental repetition of what I was receiving from the text. Here, directing focus consisted of recognising this fact and taking breaks when I needed. This approach helped me actually focus when I returned, and eventually helped me absorb the whole paper.
 
-The analogy I can make is that of a sail. Focus is that which directs the sail of a ship, not that which propels the ship - at least not on its own. You adjust as per the wind, you plan your path as per weather patterns, and you deal with storms when the arise the best you can. The sail is (usually) in your hands, but what you can do with it depends on a lot factors that you must pay attention to.
+The analogy I can make is that of a sail. Focus is that which directs the sail of a ship, not that which propels the ship - at least not on its own. You adjust as per the wind, you plan your path as per weather patterns, and you deal with storms when they arise the best you can. The sail is (usually) in your hands, but what you can do with it depends on a lot factors that you must pay attention to.
 
 ---
 
