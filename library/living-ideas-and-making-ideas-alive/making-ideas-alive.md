@@ -96,7 +96,7 @@ I find that each part feeds into the other:
 - Substance can consolidate data into context
 - Effort applies throughout
 
-In truth, I find that these parts are not strictly distinct, separate components of cognition, but rather, mor often than not, different ways of looking at cognition. What they offer, often, is not distinct parts of cognition but distinct entry-points into cognition. Cognition cannot exist without any one of them.
+In truth, I find that these parts are not strictly distinct, separate components of cognition, but rather, more often than not, different ways of looking at cognition. What they offer, often, is not distinct parts of cognition but distinct entry-points into cognition. Cognition cannot exist without any one of them.
 
 # How I consider this article
 I have often had the tendency, when it came to essays and articles like this, to come up with a framework that is robust, extensible, and fundamentally complete (lacking only in details and application-level specifics). In this article, I have come up with a framework, and I do believe it holds up in many ways. But it has gaps. What does it mean to gather facts before contextualising them, given that we always have some context already? How to learn to "sail the ship", so to speak, i.e. how to direct and sustain your focus in a given context? While studying? While working? While resting or exploring or engaging with loved ones? And how to make sure consolidation does not result in more ideas that eventually become inert (as has been the case with much of my studies)?
