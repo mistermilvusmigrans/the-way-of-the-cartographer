@@ -15,7 +15,7 @@
 ---
 
 # The pushback
-Sleep deprivation, hormonal states, emotional investment were earlier described as degradations to be managed. This is inconsistent with the no-mind-body-separation principle: each state offers its own epistemic texture.
+Sleep deprivation, hormonal states, emotional investment may be described or spoke of as degradations to be managed. This is inconsistent with the no-mind-body-separation principle: each state offers its own epistemic texture.
 
 > They do not just colour the signal but sometimes *are* the signal.
 
