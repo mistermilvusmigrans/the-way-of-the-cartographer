@@ -38,7 +38,7 @@ The only capacity available to a person, on this view:
     - ... from thought into action
 
 # Reframing the anchor
-The anchor (see: [states-are-not-obstacles-they-are-data.md](./states-are-not-obstacles-they-are-data.md)) is not a special faculty standing outside the states of fury, love, exhaustion. The anchor *is* a kind of focus: the sustained, trained capacity to keep directing attention at what is actually so, even while in a state, even while the state itself is also "what is" and also worth attending to. The anchor does not escape the states. It is focus applied recursively - including focus on the state itself as a fact to be registered.
+The anchor (see: [states-are-not-obstacles-they-are-data.md](./states-are-not-obstacles-they-are-data.md)) is not a special faculty standing outside the states of fury, love, exhaustion. The anchor *is* a kind of focus: the sustained, trained capacity to keep directing attention at what *is*, even while in a certain state. The anchor does not escape the states. It is focus applied recursively - so, it is a focus that can be applied to itself, as a fact to be registered and a will to be administered.
 
 # A clean definition of failure
 > - Failure is not "acting wrongly" in some external sense
